@@ -1,2 +1,3 @@
 # CS50-hello
-CS50
+
+A hello world program written in C
